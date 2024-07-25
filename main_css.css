@@ -1,0 +1,30 @@
+h1 { text-align: center; }
+
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a {
+	margin: 30px 40px;
+	background-color: yellow;
+	color: red;
+	font-family: "Lucida Console", monospace;
+	letter-spacing: 0.15cm;
+	text-transform: uppercase;
+}
+
+img {
+	height: 500px;
+	box-shadow: 8px 5px 5px 8px #283C53;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-family: "Papyrus", fantasy;
+	color: blue;
+	font-weight: bold;
+}
